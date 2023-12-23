@@ -12,5 +12,5 @@ This repository contains code for analyzing Olympic Games data. The analysis is 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/olympics-data-analysis.git
+   git clone https://github.com/VanshAngaria/olympics_data_analyze.git
    cd olympics-data-analysis
