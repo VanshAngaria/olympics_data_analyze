@@ -15,6 +15,8 @@ This repository contains code for analyzing Olympic Games data. The analysis is 
    git clone https://github.com/VanshAngaria/olympics_data_analyze.git
    cd olympics-data-analysis
 
+## Try it Yourself : https://yinmd97mezzm6tjczvmam3.streamlit.app
+
 ## Functionality
 
 ### Medal Tally
