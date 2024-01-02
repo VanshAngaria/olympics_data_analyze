@@ -15,8 +15,6 @@ This repository contains code for analyzing Olympic Games data. The analysis is 
    git clone https://github.com/VanshAngaria/olympics_data_analyze.git
    cd olympics-data-analysis
 
-## Try it Yourself : https://yinmd97mezzm6tjczvmam3.streamlit.app
-
 ## Functionality
 
 ### Medal Tally
@@ -42,9 +40,7 @@ This repository contains code for analyzing Olympic Games data. The analysis is 
 
 ## Acknowledgments
 
-- The Olympic Games data is sourced from [your dataset source, if applicable].
-- Thanks to [contributors' names] for their contributions.
-
+- The Olympic Games data is sourced from Kaggle.
 Feel free to contribute to this project by opening issues or submitting pull requests.
 
 Happy analyzing!
